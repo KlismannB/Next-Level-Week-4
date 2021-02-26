@@ -5,7 +5,9 @@
   "license": "MIT",
   "dependencies": {
     "@types/express": "^4.17.11",
+    "@types/handlebars": "^4.1.0",
     "express": "^4.17.1",
+    "handlebars": "^4.7.7",
     "sqlite3": "^5.0.2",
     "typeorm": "^0.2.31",
     "uuid": "^8.3.2"
